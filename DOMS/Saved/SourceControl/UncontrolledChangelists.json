@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Levels/TestLevel.umap",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/VNGameMode.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Gamemodes/VNGameMode.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/BPs/Gamemodes/VNGameMode.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Music/SW_Music.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_BG.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Choices.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Continue.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_HighPitch.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Key1.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Key2.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Key3.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Key4.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Key5.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_LowPitch.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/SFX/SW_Skip.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/BG/T_BG_Exterior01.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/BG/T_BG_Interior.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl01_Normal.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl01_Sad.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl01_Smile.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl01_Shocked.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl01_Laugh.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/BG/T_BG_Exterior02.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl01_Angry.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl02_Normal.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl02_Angry.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl02_Laugh.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl02_Sad.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl02_Smile.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Textures/Sprites/T_Girl02_Shocked.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Fonts/ComicJensFreePro-Regular.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Fonts/ComicJensFreePro-Regular_Font.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Fonts/ComicNeue-Angular-Regular.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/Fonts/ComicNeue-Angular-Regular_Font.uasset",
+				"D:/ForkSourceFolder/DOMS-In-Unreal/DOMS/Content/TestLevel.umap"
+			]
+		}
+	]
+}
